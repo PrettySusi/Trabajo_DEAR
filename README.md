@@ -1,1 +1,4 @@
-# Trabajo_DEAR
+# Trabajo 1 DEAR
+
+Los computadores portátiles son herramientas clave para la vida laboral y académica, actualmente deben atender una amplia gama de necesidades para desarrollar correctamente las actividades que el dueño solicita. Estas máquinas tienen una vida útil, esto significa que después de un período de tiempo es necesario cambiar estos dispositivos por uno más nuevo que implemente tecnologías más avanzadas y contemporáneas a los requerimientos básicos de la  actualidad.
+Para este trabajo se plantea una problemática la cual es la predicción de precios de computadores portátiles que posiblemente tiendan a variar,  influenciados por la introducción de nuevos componentes, la demanda del mercado y la competencia entre marcas. Mediante un análisis estadístico se indagará qué tipo de atributos pueden influir de manera significativa en los precios de los portátiles, adaptando cada uno de estos factores a opciones que los consumidores puedan encontrar ajustadas a su presupuesto. Para ser más específicos se plantearon una pregunta principal y dos preguntas auxiliares, las cuales serán útiles para estudiar datos puntuales que darán respuesta a estas
